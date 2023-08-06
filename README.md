@@ -14,7 +14,7 @@ I will try to update as I move along the development.
 
 During the development stage, addresses to reach the APP are :
 
-http://3.65.227.144:8080
-http://3.65.227.144:8080/login
+http://3.76.106.39:8080                                                                                                          
+http://3.76.106.39:8080/login
 
-
+These addresses will change - I will updatre (Updated 2023 08 06)
